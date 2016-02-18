@@ -2,7 +2,6 @@
 
 namespace OldSound\RabbitMqBundle\RabbitMq;
 
-use OldSound\RabbitMqBundle\RabbitMq\BaseConsumer;
 use PhpAmqpLib\Message\AMQPMessage;
 
 class Consumer extends BaseConsumer
